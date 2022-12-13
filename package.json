@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Eshanjain04/validate-bst.git"
   },
+  "keywords": [
+    "Binary Search Tree",
+    "Valid Binary Search Tree",
+    "BST",
+    "Data Structures"
+  ],
   "author": "Eshan Jain",
   "license": "ISC",
   "bugs": {
