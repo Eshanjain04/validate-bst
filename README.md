@@ -25,5 +25,5 @@ const validate = require('validate-bst');
 > Run the checkBST function and give root node as parameter.
 
 ```
-console.log(validate.checkBST(root));
+console.log(validate.checkBST(root)); //true
 ```
