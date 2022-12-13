@@ -22,6 +22,4 @@ function validateBST(root){
     return helper(root,Number.MAX_SAFE_INTEGER,Number.NEGATIVE_INFINITY);
 }
 
-console.log(validateBST(root));
-
 module.exports = test;
