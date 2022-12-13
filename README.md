@@ -1,0 +1,2 @@
+This package will provide you a function checkBST which will validate whether your Binary search tree is Valid or not.
+Make Your Binary Search tree and import this package and check whether it is valid or not.
