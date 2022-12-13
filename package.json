@@ -1,6 +1,6 @@
 {
   "name": "validate-bst",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "With this program check with the given tree is valid Binary Search Tree or not",
   "main": "index.js",
   "scripts": {
